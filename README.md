@@ -2,7 +2,7 @@
 <!-- - 👋 Hi, I’m @Aysha-Fathima -->
 - 👀 I’m interested in exploring new skills
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects and hackathons
+- 💞️ I’m looking to collaborate on any projects
 <!-- - 📫 How to reach me  -->
 <!---
 Aysha-Fathima/Aysha-Fathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
