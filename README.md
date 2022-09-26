@@ -1,7 +1,7 @@
 # Hi, I'm Aysha! 👋
 <!-- - 👋 Hi, I’m @Aysha-Fathima -->
 - 👀 I’m interested in exploring new skills
-- 🌱 I’m currently learning web development
+<!-- - 🌱 I’m currently learning -->
 - 💞️ I’m looking to collaborate on any projects
 <!-- - 📫 How to reach me  -->
 <!---
