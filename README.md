@@ -9,3 +9,14 @@ Aysha-Fathima/Aysha-Fathima is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-Fathima&theme=tokyonight)
+-->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aysha-Fathima&show_icons=true"/>
+
+<!--
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
+-->
