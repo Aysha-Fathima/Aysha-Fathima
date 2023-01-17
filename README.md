@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-Fathima&theme=dark)](https://git.io/streak-stats) -->
 
 
-![My Skills](https://skillicons.dev/icons?i=git,github,discord,bootstrap,c,tensorflow,html,css)
+<!-- ![My Skills](https://skillicons.dev/icons?i=git,github,discord,bootstrap,c,tensorflow,html,css,tailwindcss,django,nodejs,react,php,flutter,wordpress,mongodb) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-Fathima&theme=tokyonight) -->
 
 ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-Fathima)
