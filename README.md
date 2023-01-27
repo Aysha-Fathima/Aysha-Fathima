@@ -9,11 +9,9 @@ Aysha-Fathima/Aysha-Fathima is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Aysha-Fathima)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Aysha-Fathima) -->
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aysha-Fathima) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-Fathima&theme=dark)](https://git.io/streak-stats) -->
 
@@ -21,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ![My Skills](https://skillicons.dev/icons?i=git,github,discord,bootstrap,c,tensorflow,html,css,tailwindcss,django,nodejs,react,php,flutter,wordpress,mongodb) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-Fathima&theme=tokyonight) -->
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-Fathima)
+<!-- ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-Fathima) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aysha-Fathima&show_icons=true&theme=dark"/> -->
 
 <!--
