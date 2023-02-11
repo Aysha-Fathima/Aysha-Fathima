@@ -13,14 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats) -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-Fathima&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-Fathima&theme=dark)](https://git.io/streak-stats)
 
 
 <!-- ![My Skills](https://skillicons.dev/icons?i=git,github,discord,bootstrap,c,tensorflow,html,css,tailwindcss,django,nodejs,react,php,flutter,wordpress,mongodb) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-Fathima&theme=tokyonight) -->
 
 <!-- ![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aysha-Fathima) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Aysha-Fathima&show_icons=true&theme=dark"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Aysha-Fathima&show_icons=true&theme=dark"/>
 
 <!--
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
