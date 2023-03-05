@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Aysha-Fathima) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aysha-Fathima&hide_border=true)](https://git.io/streak-stats)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Aysha-Fathima&theme=dark)](https://git.io/streak-stats) -->
 
